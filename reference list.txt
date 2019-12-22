@@ -5,3 +5,7 @@ vol. 280, pp. 218–238, 2014
 
 3)Smart Configuration of Smart Environments
 Simon Mayer, Ruben Verborgh, Matthias Kovatsch, and Friedemann Mattern
+
+4)  J. L. M. Lastra and I. M. Delamer, “Semantic web services in factory
+automation: Fundamental insights and research roadmap,” IEEE Trans.
+Ind. Informatics, vol. 2, no. 1, pp. 1–11, Feb. 2006.
