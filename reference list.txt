@@ -1,0 +1,7 @@
+1) Distributed Smart Space Orchestration
+2) Q. Z. Sheng, X. Qiao, A. V. Vasilakos, C. Szabo, S. Bourne, and X.
+Xu, “Web services composition: A decade’s overview,” Inform. Sci.,
+vol. 280, pp. 218–238, 2014
+
+3)Smart Configuration of Smart Environments
+Simon Mayer, Ruben Verborgh, Matthias Kovatsch, and Friedemann Mattern
