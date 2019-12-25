@@ -1,4 +1,7 @@
-1) Distributed Smart Space Orchestration
+1) Distributed Smart Space Orchestration,
+   Marc-Oliver Pahl,
+   http://mediatum.ub.tum.de/doc/1196145/78965.pdf
+
 2) Q. Z. Sheng, X. Qiao, A. V. Vasilakos, C. Szabo, S. Bourne, and X.
 Xu, “Web services composition: A decade’s overview,” Inform. Sci.,
 vol. 280, pp. 218–238, 2014
@@ -9,3 +12,21 @@ Simon Mayer, Ruben Verborgh, Matthias Kovatsch, and Friedemann Mattern
 4)  J. L. M. Lastra and I. M. Delamer, “Semantic web services in factory
 automation: Fundamental insights and research roadmap,” IEEE Trans.
 Ind. Informatics, vol. 2, no. 1, pp. 1–11, Feb. 2006.
+
+5)Semantics-Based Dynamic Service Composition
+K. Fujii ; T. Suda
+https://ieeexplore.ieee.org/abstract/document/1546104
+
+6)WoTDL: Web of Things Description Language for Automatic Composition
+Mahda Noura,Martin Gaedke
+https://dl.acm.org/citation.cfm?id=3352558&dl=ACM&coll=DL&preflayout=flat
+
+7)A study of existing Ontologies in theIoT-domain
+Garvita Bajaj,Rachit Agarwal,Rachit Agarwal,Pushpendra Singh,Valérie Issarny
+https://www.researchgate.net/publication/318119841_A_study_of_existing_Ontologies_in_the_IoT-domain
+
+8)Extended multi-agent system based service composition in the Internet of things
+Samir Berrani, Ali Yachir, Badis Djemaa,Mohamed Aissani
+https://ieeexplore.ieee.org/document/8598503/authors#authors
+
+9)M. Vallée, F. Ramparany, L. Vercouter, "A multi-agent system for dynamic service composition in ambient intelligence environments", Doctoral Colloquium - Pervasive 2005, 2005.

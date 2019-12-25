@@ -18,6 +18,7 @@ In this article the term composer is used to collectively represent a whole meth
 Now we have a look how 
 Composition using RESTdesc and Reasoner:
 This method[3] is composed of a discoverer which can be used with any system that allows clients to search for URIs of service endpoints. For example, search engines like Dyser.
-In order to express high-level semantics of a particular service, it uses RESTdesc with extended capabilities to make it suitable for reasoning (selection and planning stage.RESTdesc is a method for defining hypermedia API features, allowingmachines to autonomously discover what an API is doing. As RESTdesc is based on first order logic, therefore it is not able to express mutually exclusive states. In order to represent such states RESTdesc is added is extended. The reasoner is used to select services according to the given goals by the user. The goals are provided using graphical interface is provided using ClickScript(a visual programming tool based on javascript) for users to get goals from user. The Figure depicts the overall composer structure.
+In order to express high-level semantics of a particular service, it uses RESTdesc with extended capabilities to make it suitable for reasoning(selection and planning stage). RESTdesc is a method for defining hypermedia API features, allowingmachines to autonomously discover what an API is doing. As RESTdesc is based on first order logic, therefore it is not able to express mutually exclusive states. In order to represent such states RESTdesc is added is extended. Then a reasoner is used to select services according to the given goals by the user. The goals are provided using graphical interface is provided using ClickScript(a visual programming tool based on javascript) for users to get goals from user. The Figure depicts the overall composer structure.
 
-The 
+
+
